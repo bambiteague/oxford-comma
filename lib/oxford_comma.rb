@@ -21,8 +21,3 @@ def oxford_comma(array)
     end  
   end
    
-
-
-#solution 4
-# def oxford_comma(array)
-# end    
